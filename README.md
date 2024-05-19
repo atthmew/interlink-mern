@@ -15,3 +15,11 @@
   <img alt="Project Top Language" src="https://img.shields.io/github/last-commit/atthmew/interlink-mern?style=for-the-badge">
   <img alt="GitHub issues" src="https://img.shields.io/github/issues/atthmew/interlink-mern?style=for-the-badge">
 </p>
+
+<p align="center">
+  <a href="#-about-the-project">About The Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-getting-started">Getting Started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-how-to-contribute">How To Contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-license">License</a>
+</p>
