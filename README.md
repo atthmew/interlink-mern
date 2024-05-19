@@ -9,5 +9,5 @@
 <p align="center"></p>
 
 <p align="center">
-  <img alt="Project Top Language" src="https://img.shields.io/badge/98.2%25-yellow?style=for-the-badge&logo=javascript&label=JavaScript&labelColor=black">
+  <img alt="Project Top Language" src="https://img.shields.io/github/last-commit/atthmew/interlink-mern">
 </p>
