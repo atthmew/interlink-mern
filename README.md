@@ -23,3 +23,29 @@
 </p>
 
 ## 🧑🏼‍💻 About this Project
+
+<p>This project is about blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah </p>
+
+## 🚀 Technologies
+
+Technologies that I used to develop the frontend and backend
+
+- [ReactJS](https://react.dev/)
+- [MongoDB](https://www.mongodb.com/)
+- [ExpressJS](https://expressjs.com/)
+- [NodeJS](https://nodejs.org/en)
+- [Socket.IO](https://socket.io/)
+- [Axios](https://axios-http.com/docs/intro)
+- [React-Router-Dom](https://reactrouter.com/en/main)
+- [Emoji-Picker-Heart](https://www.npmjs.com/package/emoji-picker-react)
+- [ReduxJS](https://redux.js.org/)
+- [Buffer](https://nodejs.org/api/buffer.html)
+- [React-Icons](https://github.com/wwayne/react-tooltip)
+- [Styled-Components](https://styled-components.com)
+- [Toastify](https://fkhadra.github.io/react-toastify/introduction/)
+- [Cors](https://expressjs.com/en/resources/middleware/cors.html)
+- [BCrypt](https://www.npmjs.com/package/bcrypt)
+- [Nodemon](https://nodemon.io/)
+- [Mongoose](https://mongoosejs.com/docs/)
+- [dotenv](https://www.npmjs.com/package/dotenv)
+- [VS Code](https://code.visualstudio.com) with [Prettier RC](https://github.com/prettier/prettier)
