@@ -5,3 +5,9 @@
 <h3 align="center">
   InterLink - MERN Stack 
 </h3>
+
+<p align="center"></p>
+
+<p align="center">
+  <img alt="Project Top Language" src="https://img.shields.io/badge/98.2%25-yellow?label=JavaScript&labelColor=black">
+</p>
