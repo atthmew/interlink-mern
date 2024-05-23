@@ -92,7 +92,9 @@ In the .env file, find the line that reads:
 
 `PORT = 'your-port-number'`
 
-Replace "your-mongodb-uri" with the actual URI of your MongoDB database.
+Replace "your-mongodb-url" with the actual URI of your MongoDB database.
+
+Replace "your-port-number" with the actual port number in your server.js.
 
 #### Step 5: Install Backend Dependencies
 
