@@ -88,7 +88,9 @@ cd idurar-erp-crm
 
 In the .env file, find the line that reads:
 
-`MONGODB_URL = 'mongodb://127.0.0.1:27017/interlink' PORT = '61723'`
+`MONGODB_URL = 'mongodb://127.0.0.1:27017/interlink'`
+
+`PORT = '61723'`
 
 Replace "your-mongodb-uri" with the actual URI of your MongoDB database.
 
