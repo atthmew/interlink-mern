@@ -57,8 +57,6 @@ Technologies that I used to develop the frontend and backend
 - [Node.js](https://nodejs.org/en/)
 - [Yarn](https://classic.yarnpkg.com/) or [npm](https://www.npmjs.com/)
 
-## Getting started
-
 #### Step 1: Clone the repository
 
 ```bash
