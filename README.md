@@ -24,7 +24,7 @@
 
 ## 🧑🏼‍💻 About this Project
 
-<p>This project is about blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah </p>
+<p>Introducing InterLink, a revolutionary social media platform designed to foster genuine connections without the burden of judgment. Unlike traditional networks, InterLink emphasizes user anonymity, creating a safe space free from racism, discrimination, and bias. Developed using the MERN stack, InterLink ensures a seamless and secure experience, empowering users to interact freely and authentically. Join InterLink today and connect in a community where your voice matters, not your identity. </p>
 
 ## 🚀 Technologies
 
