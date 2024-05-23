@@ -84,15 +84,15 @@ cd idurar-erp-crm
 
   This file will store environment variables for the project to run.
 
-#### Step 4: Update MongoDB URI
+#### Step 4: Update MongoDB URI and PORT NUMBER
 
 In the .env file, find the line that reads:
 
-`MONGODB_URL = 'your-mongodb-url'`
+`MONGODB_URL = 'your-mongodb-uri'`
 
 `PORT = 'your-port-number'`
 
-Replace "your-mongodb-url" with the actual URI of your MongoDB database.
+Replace "your-mongodb-uri" with the actual URI of your MongoDB database.
 
 Replace "your-port-number" with the actual port number in your server.js.
 
