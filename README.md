@@ -23,7 +23,7 @@
   <br/>
   <br/>
   <button><a href="https://linkedin-clone-ui.netlify.app/"> 
-  <img alt="Project Top Language" src="https://img.shields.io/badge/98.2%25-yellow?style=for-the-badge&logo=YouTube&label=YouTube&labelColor=black"/></a></button>
+  <img alt="Project Top Language" src="https://img.shields.io/badge/Demo Application25-white?style=for-the-badge&logo=YouTube&label=YouTube&labelColor=red"/></a></button>
   <!-- <img alt="Demo" src="https://github.com/eltonlazzarin/reactjs-rocketfy-app/blob/master/screenshot/demo.png" target="_blank"></img> -->
 </p>
 
