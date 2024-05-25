@@ -22,12 +22,19 @@
   <a href="#-getting-started">Getting Started</a>&nbsp;&nbsp;&nbsp;
   <br/>
   <br/>
-  <button><a href="https://linkedin-clone-ui.netlify.app/"> 
-  <img alt="Project Top Language" src="https://img.shields.io/badge/Demo Application25-white?style=for-the-badge&logo=YouTube&label=YouTube&labelColor=red"/></a></button>
+  
   <!-- <img alt="Demo" src="https://github.com/eltonlazzarin/reactjs-rocketfy-app/blob/master/screenshot/demo.png" target="_blank"></img> -->
 </p>
 
 ## 📱 About this Project
+
+<p align="center">
+  <button>
+    <a href="https://youtu.be/DQWjVMU84mM"> 
+      <img alt="Project Top Language" src="https://img.shields.io/badge/InterLink Demo-white?style=for-the-badge&logo=YouTube&label=YouTube&labelColor=red"/>
+    </a>
+  </button>
+</p>
 
 <p>Introducing InterLink, a revolutionary social media platform designed to foster genuine connections without the burden of judgment. Unlike traditional networks, InterLink emphasizes user anonymity, creating a safe space free from racism, discrimination, and bias. Developed using the MERN stack and enhanced with Socket.io for real-time popups of chats, comments, likes, and notifications, InterLink ensures a seamless and secure experience. Empowering users to interact freely and authentically, InterLink is where your voice matters, not your identity. Join InterLink today and connect in a community that values your input over your identity. </p>
 
