@@ -24,7 +24,7 @@
 
 ## 📱 About this Project
 
-<p>Introducing InterLink, a revolutionary social media platform designed to foster genuine connections without the burden of judgment. Unlike traditional networks, InterLink emphasizes user anonymity, creating a safe space free from racism, discrimination, and bias. Developed using the MERN stack, InterLink ensures a seamless and secure experience, empowering users to interact freely and authentically. Join InterLink today and connect in a community where your voice matters, not your identity. </p>
+<p>Introducing InterLink, a revolutionary social media platform designed to foster genuine connections without the burden of judgment. Unlike traditional networks, InterLink emphasizes user anonymity, creating a safe space free from racism, discrimination, and bias. Developed using the MERN stack and enhanced with Socket.io for real-time popups of chats, comments, likes, and notifications, InterLink ensures a seamless and secure experience. Empowering users to interact freely and authentically, InterLink is where your voice matters, not your identity. Join InterLink today and connect in a community that values your input over your identity. </p>
 
 ## 🚀 Technologies
 
