@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  InterLink - MERN Stack 
+  InterLink - MERN Stack & Socket.io
 </h3>
 
 <p align="center"></p>
