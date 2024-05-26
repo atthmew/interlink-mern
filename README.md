@@ -75,11 +75,11 @@ Technologies that I used to develop the frontend and backend
 #### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/idurar/idurar-erp-crm.git
+git clone https://github.com/atthmew/interlink-mern.git
 ```
 
 ```bash
-cd idurar-erp-crm
+cd interlink-mern
 ```
 
 #### Step 2: Create Your MongoDB Account and Database Cluster
