@@ -29,6 +29,9 @@
 ## 📱 About this Project
 
 <p align="center">
+<img alt="Discord logo" src="https://github.com/atthmew/interlink-mern/blob/main/frontend/screenshots/interlink%201.png" height="350px" width="400px" /> 
+<img alt="Discord logo" src="https://github.com/atthmew/interlink-mern/blob/main/frontend/screenshots/interlink%202.png" height="350px" width="400px" /> 
+<br/>
   <button>
     <a href="https://youtu.be/STlR_XQ7X0Q"> 
       <img alt="InterLink Demo" src="https://img.shields.io/badge/InterLink Demo-white?style=for-the-badge&logo=YouTube&label=YouTube&labelColor=red"/>
